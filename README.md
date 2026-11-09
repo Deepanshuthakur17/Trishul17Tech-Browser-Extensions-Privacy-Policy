@@ -11,6 +11,7 @@ Each extension operates independently and has its own dedicated privacy policy d
 | Search Select | [search-select/PRIVACY_POLICY.md](search-select/PRIVACY_POLICY.md) | [search-select/README.md](search-select/README.md) |
 | CineWall for YouTube | [cinewall/PRIVACY_POLICY.md](cinewall/PRIVACY_POLICY.md) | [cinewall/README.md](cinewall/README.md) |
 | Multi Links Open | [Multi-Links-Open/PRIVACY_POLICY.md](Multi-Links-Open/PRIVACY_POLICY.md) | [Multi-Links-Open/README.md](Multi-Links-Open/README.md) |
+| Personal Tab | [Personal-Tab/PRIVACY_POLICY.md](Personal-Tab/PRIVACY_POLICY.md) | [Personal-Tab/README.md](Personal-Tab/README.md) |
 
 ## Important
 
